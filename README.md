@@ -2,6 +2,8 @@
 
 RePlay is a library providing tools for all stages of creating a recommendation system, from data preprocessing to model evaluation and comparison.
 
+[Framework architecture](https://miro.com/app/board/uXjVOhTSHK0=/?share_link_id=748466292621)
+
 ## Quickstart
 ```bash
 pip install replay-rec
