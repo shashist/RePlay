@@ -58,11 +58,11 @@ metrics = Experiment(test,  {NDCG(): K, HitRate(): K})
 metrics.add_result("knn", recs)
 ```
 
+[Framework architecture](https://miro.com/app/board/uXjVOhTSHK0=/?share_link_id=748466292621)
+
 ## Overview
 
 RePlay uses PySpark to handle big data.
-
-[Framework architecture](https://miro.com/app/board/uXjVOhTSHK0=/?share_link_id=748466292621)
 
 You can
 
