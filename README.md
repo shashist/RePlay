@@ -66,12 +66,10 @@ RePlay uses PySpark to handle big data.
 
 You can
 
-- Filter and split data
-- Train models
-- Optimize hyper parameters
-- Evaluate predictions with metrics
-- Combine predictions from different models
+- [Filter and split data, train models, optimize hyperparameters, evaluate predictions with metrics](experiments/01_replay_basics.ipynb)
+- [Create reproducible model comparison](experiments/02_models_comparison.ipynb)
 - [Use pyspark for feature preprocessing](experiments/03_features_preprocessing_and_lightFM.ipynb)
+- Combine predictions from different models
 - Create a two-level model
 
 
