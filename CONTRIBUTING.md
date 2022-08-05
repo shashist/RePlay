@@ -35,5 +35,5 @@ Typically for new model you need to update inner methods for `train`, `predict` 
 
 For details check
 
-TODO: [predict structure for RePlay models](https://miro.com/app/board/uXjVOlaS1B4=/?share_link_id=536004808955
+TODO: [predict structure for RePlay models](https://miro.com/app/board/uXjVOlaS1B4=/?share_link_id=536004808955)
  
