@@ -2,8 +2,6 @@
 
 RePlay is a library providing tools for all stages of creating a recommendation system, from data preprocessing to model evaluation and comparison.
 
-[Framework architecture](https://miro.com/app/board/uXjVOhTSHK0=/?share_link_id=748466292621)
-
 ## Quickstart
 ```bash
 pip install replay-rec
@@ -64,12 +62,13 @@ metrics.add_result("knn", recs)
 
 RePlay uses PySpark to handle big data.
 
+[Framework architecture](https://miro.com/app/board/uXjVOhTSHK0=/?share_link_id=748466292621)
+
 You can
 
-- Filter and split data
-- Train models
-- Optimize hyper parameters
-- Evaluate predictions with metrics
+- [Filter and split data, train models, optimize hyperparameters, evaluate predictions with metrics](experiments/01_replay_basics.ipynb)
+- [Create reproducible model comparison](experiments/02_models_comparison.ipynb)
+- [Use pyspark for feature preprocessing](experiments/03_features_preprocessing_and_lightFM.ipynb)
 - Combine predictions from different models
 - Create a two-level model
 
