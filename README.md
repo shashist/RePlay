@@ -89,3 +89,7 @@ pip install replay-rec
 It is preferable to use a virtual environment for your installation.
 
 If you encounter an error during RePlay installation, check the [troubleshooting](https://sb-ai-lab.github.io/RePlay/pages/installation.html#troubleshooting) guide.
+
+## Contribution Guide
+
+For more details visit [CONTRIBUTING.md](CONTRIBUTING.md)
